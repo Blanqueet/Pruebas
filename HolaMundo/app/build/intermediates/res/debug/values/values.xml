@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/E:/Documentos/GitHub/Pruebas/HolaMundo/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Primera App</string>
+    <string name="hello">Prueba conseguida</string>
+</resources>
